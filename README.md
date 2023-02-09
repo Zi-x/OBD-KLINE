@@ -1,4 +1,4 @@
 # OBD-KLINE
-![Alt](https://github.com/Zi-x/OBD-KLINE/tree/main/picture/daytime.jpg)
+![daytime](https://github.com/Zi-x/OBD-KLINE/blob/main/picture/daytime.jpg)
 # Supported protocols
 --ISO14230
