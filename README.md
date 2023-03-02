@@ -1,6 +1,9 @@
 # OBD-KLINE
 Open-source OBD-II emulator based on an ESP32 + KLINE transceiver IC (xl33290).  
 
+The circuit board drawing is made by using lceda:
+https://lceda.cn/editor
+
 <img src='https://github.com/Zi-x/OBD-KLINE/blob/main/picture/front-side.jpg' style='width:250px; float:left'></img>
 <img src='https://github.com/Zi-x/OBD-KLINE/blob/main/picture/back-side.jpg' style='width:250px; float:left;margin-left:-6px'></img><br/>
 
